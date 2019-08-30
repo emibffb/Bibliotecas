@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1567174045 source:c:\users\alumno\documents\codeblocks\lalala\main.c
+	<stdlib.h>
+
+1567174020 source:c:\users\alumno\documents\codeblocks\lalala\aritmeticas.c
+	"Aritmeticas.h"
+
+1567174935 c:\users\alumno\documents\codeblocks\lalala\aritmeticas.h
+	<stdio.h>
+
